@@ -1,7 +1,7 @@
 export const data = [
     {
         name: "Baked Salmon",
-        ingredient: [
+        ingredients: [
             {name: "Salmon", amount: 1, measurement: "l lb" },
             {name: "Pine Nuts", amount: 1, measurement: "cup" },
             {name: "Butter Lettuce", amount: 2, measurement: "cups" },
@@ -20,7 +20,7 @@ export const data = [
     },
     {
         name: "Fish Tacos",
-        ingredient: [
+        ingredients: [
             {name: "Whitefish", amount: 1, measurement: "l lb" },
             {name: "Cheese", amount: 1, measurement: "cup" },
             {name: "Iceberg Lettuce", amount: 2, measurement: "cups" },
