@@ -1,7 +1,7 @@
 import React from "react";
 import {render} from "react-dom";
 
-import Menu from "./components/Menu";
+import Menu from "./components/Menu.js";
 import data from "./data/recipes.json"
 
 

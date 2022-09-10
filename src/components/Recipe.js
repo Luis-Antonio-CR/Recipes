@@ -1,7 +1,7 @@
 import React from "react";
 
-import IngredientsList from "./IngredientsList";
-import Instructions from "./Instructions";
+import IngredientsList from "./IngredientsList.js";
+import Instructions from "./Instructions.js";
 
 const Recipe = ({name, ingredients, steps}) => {
     return (
